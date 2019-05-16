@@ -1,4 +1,7 @@
 # test
+## Project setup
+
+应用了vue-router和按需加载element ui
 
 ## Project setup
 ```
